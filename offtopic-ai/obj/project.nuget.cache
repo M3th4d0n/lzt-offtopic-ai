@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oJSCi0uqxsU=",
+  "success": true,
+  "projectFilePath": "/home/elliot/RiderProjects/offtopic-ai/offtopic-ai/offtopic-ai.csproj",
+  "expectedPackageFiles": [
+    "/home/elliot/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

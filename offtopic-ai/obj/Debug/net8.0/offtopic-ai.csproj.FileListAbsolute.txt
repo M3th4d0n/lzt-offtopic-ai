@@ -1,0 +1,14 @@
+/home/elliot/RiderProjects/offtopic-ai/offtopic-ai/bin/Debug/net8.0/offtopic-ai
+/home/elliot/RiderProjects/offtopic-ai/offtopic-ai/bin/Debug/net8.0/offtopic-ai.deps.json
+/home/elliot/RiderProjects/offtopic-ai/offtopic-ai/bin/Debug/net8.0/offtopic-ai.runtimeconfig.json
+/home/elliot/RiderProjects/offtopic-ai/offtopic-ai/bin/Debug/net8.0/offtopic-ai.dll
+/home/elliot/RiderProjects/offtopic-ai/offtopic-ai/bin/Debug/net8.0/offtopic-ai.pdb
+/home/elliot/RiderProjects/offtopic-ai/offtopic-ai/obj/Debug/net8.0/offtopic-ai.GeneratedMSBuildEditorConfig.editorconfig
+/home/elliot/RiderProjects/offtopic-ai/offtopic-ai/obj/Debug/net8.0/offtopic-ai.AssemblyInfoInputs.cache
+/home/elliot/RiderProjects/offtopic-ai/offtopic-ai/obj/Debug/net8.0/offtopic-ai.AssemblyInfo.cs
+/home/elliot/RiderProjects/offtopic-ai/offtopic-ai/obj/Debug/net8.0/offtopic-ai.csproj.CoreCompileInputs.cache
+/home/elliot/RiderProjects/offtopic-ai/offtopic-ai/obj/Debug/net8.0/offtopic-ai.dll
+/home/elliot/RiderProjects/offtopic-ai/offtopic-ai/obj/Debug/net8.0/refint/offtopic-ai.dll
+/home/elliot/RiderProjects/offtopic-ai/offtopic-ai/obj/Debug/net8.0/offtopic-ai.pdb
+/home/elliot/RiderProjects/offtopic-ai/offtopic-ai/obj/Debug/net8.0/offtopic-ai.genruntimeconfig.cache
+/home/elliot/RiderProjects/offtopic-ai/offtopic-ai/obj/Debug/net8.0/ref/offtopic-ai.dll
