@@ -11,7 +11,7 @@ class ThreadFetcher
 {
     private static readonly HttpClient client = new HttpClient();
     private const string apiUrl = "https://api.zelenka.guru/threads";
-    private const string apiKey = "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzUxMiJ9.eyJzdWIiOjc0MjQxNzIsImlzcyI6Imx6dCIsImV4cCI6MCwiaWF0IjoxNzQwNzcxNjY4LCJqdGkiOjc0NTg5Nywic2NvcGUiOiJiYXNpYyByZWFkIHBvc3QgY29udmVyc2F0ZSBtYXJrZXQifQ.uHddk-IzaFDVUGZI6-eY16N_jByzKVZQmHFI0JA2a1Wsqc4AlEN5uw8jakic85yPezACocnLc72aUvALzCt84Lbu_mXIWIobo5HdEZECVPTktzP2cNPdP3-629f06-Q1E3Ez6N5egrhNMUoEPFKbjsgsK3YDEWLfif7hb75uzSA";
+    private const string apiKey = "";
 
     public async Task<List<Thread>> GetThreads(int forumId)
     {
